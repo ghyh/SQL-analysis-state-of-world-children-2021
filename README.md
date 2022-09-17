@@ -19,15 +19,18 @@ However, there are still 16 countries whose life exppectancy doesn't grow monoto
 |Nonmonotonic|                 16|7.920792079207921|
 
 #### Countries whose Life Expectancy Slumped below World Average in 2000
-Among the countries whose life expectancy doesn't grow monotonically, I noticed that there is a country whose life expectancy is higher than world average in 1970 and 2020, but it dropped lower than average in 2000, as shown in the table below. That country is Russian Federation, which makes me wonder what could cause the dramatic decrease in life expectancy.
+Among the countries whose life expectancy doesn't grow monotonically, I noticed that there is only one country whose life expectancy is higher than world average in 1970 and 2020, but it plunged and became lower than average in 2000, as shown in the table below. That country is Russian Federation, which makes me wonder what could cause the dramatic decrease in life expectancy.
 
 |country           |life_expectancy_at_births_1970|life_expectancy_at_births_2000|life_expectancy_at_births_2020|
 |------------------|------------------------------|------------------------------|------------------------------|
 |Russian Federation|                          68.5|                        65.082|                        72.742|
 
 ### Aanlysis
-To understand the trend of life expectancy in Russian Federation, I try to include more historical data, expecially that around year 2000 [2].
+To understand the trend of life expectancy in Russian Federation, I try to explore more historical data, expecially that around year 2000 [2], to see why there is a dip in life expectancy. 
+#### Trend of 
+
 #### Trend of Child Mortality (under 5) iin Russia
+First I noticed that 
 |country           |Under 5 Mortality rate 1990|Under 5 Mortality rate 2000|Under 5 Mortality rate 2019|
 |------------------|---------------------------|---------------------------|---------------------------|
 |Russian Federation|                         66|                         77|                         50|
