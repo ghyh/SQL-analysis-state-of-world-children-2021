@@ -27,20 +27,25 @@ Among the countries whose life expectancy doesn't grow monotonically, I noticed 
 
 ### Aanlysis
 To understand the trend of life expectancy in Russian Federation, I try to explore more historical data, expecially that around year 2000 [2], to see why there is a dip in life expectancy. 
-#### Trend of 
+#### Trend of Life Expectancy in Russia 
+|country           |Life Expectancy Rank 1970|Life Expectancy Rank 2000|Life Expectancy Rank 2020|
+|------------------|-------------------------|-------------------------|-------------------------|
+|Russian Federation|                       42|                      119|                      103|
 
 #### Trend of Child Mortality (under 5) iin Russia
-First I noticed that 
+First I noticed that the mortality rate of children under 5 and infant (children under 1) also show a similar trend where mortality rate shows a local maximum around year 2000, as shown in the two tables below.
 |country           |Under 5 Mortality rate 1990|Under 5 Mortality rate 2000|Under 5 Mortality rate 2019|
 |------------------|---------------------------|---------------------------|---------------------------|
-|Russian Federation|                         66|                         77|                         50|
+|Russian Federation|                        137|                        126|                        153|
+* Higher rank means higher mortality rate
 
 #### Trend of Child Mortality (Under 1) in Russia
 |country           |Neonatal Mortality rate 1990|Neonatal Mortality rate 2000|Neonatal Mortality rate 2019|
 |------------------|----------------------------|----------------------------|----------------------------|
-|Russian Federation|                          60|                          69|                          40|
+|Russian Federation|                         143|                         134|                         163|
+* Higher rank means higher mortality rate   
 
-
+The similarity between children's mortality and the decrease in life expectancy arouses my interest to look into other metrics, such as economic and nutrition.. 
 
 ### Reference
 [1]. The State of the World’s Children 2021: Statistical tables https://data.unicef.org/resources/dataset/the-state-of-the-worlds-children-2021-statistical-tables/   
