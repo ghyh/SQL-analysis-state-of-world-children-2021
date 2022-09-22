@@ -32,7 +32,7 @@ To understand the trend of life expectancy in Russian Federation, I try to explo
 |------------------|-------------------------|-------------------------|-------------------------|
 |Russian Federation|                       42|                      119|                      103|
 
-#### Trend of Child Mortality (under 5) iin Russia
+#### Trend of Child Mortality (under 5) in Russia
 First I noticed that the mortality rate of children under 5 and infant (children under 1) also show a similar trend where mortality rate shows a local maximum around year 2000, as shown in the two tables below.
 |country           |Under 5 Mortality rate 1990|Under 5 Mortality rate 2000|Under 5 Mortality rate 2019|
 |------------------|---------------------------|---------------------------|---------------------------|
@@ -47,8 +47,17 @@ First I noticed that the mortality rate of children under 5 and infant (children
 
 The similarity between children's mortality and the decrease in life expectancy arouses my interest to look into other metrics, such as economic and nutrition.. 
 
+#### Trend of GNP per capita in Russia
+|Year                                           |   1965-80|    1980-91|     1990-97|
+|-----------------------------------------------|----------|-----------|------------|
+|GNP per cpita growth rate (%)                  |   N/A [4]|    -1.0[4]|        -7.9|
+|World Average on GNP per cpita growth rate (%) |    N/A[5]|     N/A[5]|      2.6[5]|
+|Rank on GNP per cpita growth rate              |    N/A[5]|     N/A[5]|     164/175|      
+
 ### Reference
 [1]. The State of the World’s Children 2021: Statistical tables https://data.unicef.org/resources/dataset/the-state-of-the-worlds-children-2021-statistical-tables/   
 [2]. The State of the World's Children 2000 https://www.unicef.org/reports/state-worlds-children-2000  
 [3]. Healthy Life Expectancy and How It's Calculated https://www.verywellhealth.com/understanding-healthy-life-expectancy-2223919  
+[4]. The State of the World's Children 1995 https://www.unicef.org/media/84756/file/SOWC-1996.pdf   
+[5]. GNI per capita growth (annual %) https://data.worldbank.org/indicator/NY.GNP.PCAP.KD.ZG?most_recent_year_desc=false
 
