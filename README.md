@@ -45,14 +45,30 @@ First I noticed that the mortality rate of children under 5 and infant (children
 |Russian Federation|                         143|                         134|                         163|
 * Higher rank means higher mortality rate   
 
-The similarity between children's mortality and the decrease in life expectancy arouses my interest to look into other metrics, such as economic and nutrition.. 
+The similarity between children's mortality and the decrease in life expectancy arouses my interest to look into other metrics, such as economic indciators or health indicators.
+
+#### Children Vaccination Stats
+Judging from the vaccination stats among children in available data, there doesn't seem to be a significant difference in vaccintion rate at two different years. Therefore, children health might not be the main cause of high morality increase around year 2000.
+##### Year 1995-98
+|country           |%TB|%DPT|%Polio|%Measles|
+|------------------|---|----|------|--------|
+|Russian Federation| 95|  97|    99|      98|
+
+##### Year 2020
+|country           |%BCG|%DTP1|%DTP3|%Polio3|%MCV1|%MCV2F|%Hepb3|%Hib3|%ROTA|%PCV3|%PAB Tentanus|
+|------------------|----|-----|-----|-------|-----|------|------|-----|-----|-----|-------------|
+|Russian Federation|98.0| 97.0| 97.0|   97.0| 97.0|  96.0|  97.0|  N/A|  N/A| 87.0|          N/A|
 
 #### Trend of GNP per capita in Russia
-|Year                                           |   1965-80|    1980-91|     1990-97|
-|-----------------------------------------------|----------|-----------|------------|
-|GNP per cpita growth rate (%)                  |   N/A [4]|    -1.0[4]|        -7.9|
-|World Average on GNP per cpita growth rate (%) |    N/A[5]|     N/A[5]|      2.6[5]|
-|Rank on GNP per cpita growth rate              |    N/A[5]|     N/A[5]|     164/175|      
+When looking at the economic inddicator, such as GNP per capita growth rate, we can find a weak correlation between the trend of GNP per capita growth rate (%) and the life expectancy. However, data points are missing in the table below to provide enough information to conclude anything. 
+|Year                                           |   1965-80|    1980-91|     1990-97|      2020|
+|-----------------------------------------------|----------|-----------|------------|----------|
+|GNP per capita growth rate (%)                 |    N/A[4]|    -1.0[4]|        -7.9|   -2.5[5]|
+|World Average on GNP per cpita growth rate (%) |    N/A[5]|     N/A[5]|      2.6[5]|   -4.2[5]|
+|Rank on GNP per cpita growth rate              |    N/A[5]|     N/A[5]|     164/175|106/156[5]|
+
+### Summary
+From the data in the series of the reports of The State of the World’s Children, we are not able to conclude why there was a significant drop in the life expectancy in Russia around year 2000. A reasonble speculation is the famous historical event occurred in 1991, the dissolution of USSR, which could generate widespread impact to every aspect in society. What we see in the trend of life expectancy is one of the outcomes from the event.
 
 ### Reference
 [1]. The State of the World’s Children 2021: Statistical tables https://data.unicef.org/resources/dataset/the-state-of-the-worlds-children-2021-statistical-tables/   
@@ -60,4 +76,3 @@ The similarity between children's mortality and the decrease in life expectancy 
 [3]. Healthy Life Expectancy and How It's Calculated https://www.verywellhealth.com/understanding-healthy-life-expectancy-2223919  
 [4]. The State of the World's Children 1995 https://www.unicef.org/media/84756/file/SOWC-1996.pdf   
 [5]. GNI per capita growth (annual %) https://data.worldbank.org/indicator/NY.GNP.PCAP.KD.ZG?most_recent_year_desc=false
-
